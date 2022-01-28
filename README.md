@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashraf-ainia
-- 👀 I’m interested in software development and especially the front-end side
-- 🌱 I’m currently learning UI/UX design prineiples
-- 💞️ I’m looking to collaborate on javascript projects
+- 👋 Hi, I’m @ashraf-ainia.
+- 👀 I’m interested in software development and especially the front-end side.
+- 🌱 I’m currently learning UI/UX design principles.
+- 💞️ I’m looking to collaborate on javascript projects.
 - 📫 How to reach me? you can contact my on my email ashrafainia1995@gmail.com
 
 <!---
